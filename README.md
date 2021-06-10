@@ -7,5 +7,5 @@ Tale processo non vuole sostituire quello riconsciuto e indicato nella pagina [w
 Si raccomanda di riempire tutti i campi richiesti nel template delle issues per velocizzare il lavoro.
 
 ## Team
-- Anisa Kuci - Responsabile OpenStreetMap per WikiMedia Italia
-- Lorenzo Stucchi - Coordinatore Nazionale OpenStreetMap per WikiMedia Italia
+- Anisa Kuci - Responsabile OpenStreetMap per Wikimedia Italia
+- Lorenzo Stucchi - Coordinatore Nazionale OpenStreetMap per Wikimedia Italia
