@@ -13,7 +13,7 @@ Descrivere brevemente il contesto della mancata attribuzione (si tratta di una m
 -->
 
 
-## Riferimento del prodotto senza attibuzione
+## Riferimento del prodotto senza attribuzione
 <!-- 
 Caricare la mappa cartacea o fornire l'url in caso di mappa web 
 -->
