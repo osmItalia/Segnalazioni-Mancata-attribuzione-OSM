@@ -8,6 +8,8 @@ GitHub è uno software di proprietà di Microsoft, per inserire una nuova segnal
 
 Si raccomanda di riempire tutti i campi richiesti nel template delle issues per velocizzare il lavoro.
 
+Nel caso di mappe online dopo la mancata risposta alla terza segnalazione verrà indicato che si procederà nel giro di 3 giorni a rimuovere l'autorizzazione all'utilizzo delle tile tramite segnalazione al repository https://github.com/openstreetmap/tile-attribution
+
 ## Team
 - Anisa Kuci - Responsabile OpenStreetMap per Wikimedia Italia - anisa.kuci at wikimedia.it
 - Lorenzo Stucchi - Coordinatore Nazionale OpenStreetMap per Wikimedia Italia - lorenzo.stucchi at wikimedia.it
