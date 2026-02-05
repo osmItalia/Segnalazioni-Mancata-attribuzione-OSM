@@ -14,7 +14,7 @@ Come membro volontario della comunità di OpenStreetMap, mi fa piacere si sia sc
 
 http://www.openstreetmap.org/copyright
 
-OpenStreetMap è un progetto di mappatura libera, collaborativa e open data le cui mappe sono distribuite con licenza CC-BY-SA mentre i dati sono distribuiti con licenza ODbL. Questo significa che chiunque la utilizzi è libero di copiare, distribuire, trasmettere e adattare i dati, con il solo vincolo di riconoscerne la proprietà.
+OpenStreetMap è un progetto di mappatura libera, collaborativa e open data, i cui dati e le mappe derivate sono distribuite con licenza ODbL. Questo significa che chiunque la utilizzi è libero di copiare, distribuire, trasmettere e adattare i dati, con il solo vincolo di riconoscerne la proprietà.
 
 Per questo motivo richiedo gentilmente che l'attribuzione "©OpenStreetMap contributors”, venga inserita nella mappa / a corredo dei dati, oppure il link http://www.openstreetmap.org/ nel caso di un’immagine della mappa; in caso di una mappa elettronica navigabile o statica, come si può vedere nell’esempio allegato, il riconoscimento deve essere mostrato in un angolo della mappa attraverso un link.
 
